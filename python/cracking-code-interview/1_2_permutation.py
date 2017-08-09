@@ -47,26 +47,32 @@ def permutation_o_n(s1, s2):
 
 
 class TestFunctions(unittest.TestCase):
+    trues = [
+        ["asd", "asd"],
+        ["asd", "ads"],
+        ["asd", "das"],
+        ["asd", "sad"],
+        ["asd", "sda"],
+        ["asd", "dsa"]
+    ]
+
+    falses = [
+        ["asd", "qwe"],
+        ["asd", "aad"],
+        ["asd", "aaa"],
+        ["asd", "aaaa"]
+    ]
+
     def test_o_n_square(self):
-        self.assertTrue(permutation_o_n_square("asd", "asd"))
-        self.assertTrue(permutation_o_n_square("asd", "ads"))
-        self.assertTrue(permutation_o_n_square("asd", "das"))
-        self.assertTrue(permutation_o_n_square("asd", "sad"))
-        self.assertTrue(permutation_o_n_square("asd", "sda"))
-        self.assertTrue(permutation_o_n_square("asd", "dsa"))
-        self.assertFalse(permutation_o_n_square("asd", "qwe"))
-        self.assertFalse(permutation_o_n_square("asd", "aad"))
-        self.assertFalse(permutation_o_n_square("asd", "aaa"))
-        self.assertFalse(permutation_o_n_square("asd", "aaaa"))
+        for test in self.trues:
+            self.assertTrue(permutation_o_n_square(test[0], test[1]))
+
+        for test in self.falses:
+            self.assertFalse(permutation_o_n_square(test[0], test[1]))
 
     def test_o_n(self):
-        self.assertTrue(permutation_o_n("asd", "asd"))
-        self.assertTrue(permutation_o_n("asd", "ads"))
-        self.assertTrue(permutation_o_n("asd", "das"))
-        self.assertTrue(permutation_o_n("asd", "sad"))
-        self.assertTrue(permutation_o_n("asd", "sda"))
-        self.assertTrue(permutation_o_n("asd", "dsa"))
-        self.assertFalse(permutation_o_n("asd", "qwe"))
-        self.assertFalse(permutation_o_n("asd", "aad"))
-        self.assertFalse(permutation_o_n("asd", "aaa"))
-        self.assertFalse(permutation_o_n("asd", "aaaa"))
+        for test in self.trues:
+            self.assertTrue(permutation_o_n(test[0], test[1]))
+
+        for test in self.falses:
+            self.assertFalse(permutation_o_n(test[0], test[1]))

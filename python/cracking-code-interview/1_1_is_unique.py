@@ -27,7 +27,7 @@ result_o_n_square = unique_o_n_square()
 result_o_n = unique_o_n()
 
 if result_o_n != result_o_n_square:
-    print("This bad program could not make its mind, sorry :[")
+    print("This bad program could not make its mind about the answer, sorry :[")
     exit(1)
 
 if result_o_n_square:

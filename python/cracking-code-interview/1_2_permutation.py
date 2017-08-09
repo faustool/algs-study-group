@@ -1,7 +1,7 @@
 import unittest
 
 
-def permutation_o_n_log_n(s1, s2):
+def permutation_o_n_square(s1, s2):
     if len(s1) != len(s2):
         return False
 
@@ -47,17 +47,17 @@ def permutation_o_n(s1, s2):
 
 
 class TestFunctions(unittest.TestCase):
-    def test_o_n_log_n(self):
-        self.assertTrue(permutation_o_n_log_n("asd", "asd"))
-        self.assertTrue(permutation_o_n_log_n("asd", "ads"))
-        self.assertTrue(permutation_o_n_log_n("asd", "das"))
-        self.assertTrue(permutation_o_n_log_n("asd", "sad"))
-        self.assertTrue(permutation_o_n_log_n("asd", "sda"))
-        self.assertTrue(permutation_o_n_log_n("asd", "dsa"))
-        self.assertFalse(permutation_o_n_log_n("asd", "qwe"))
-        self.assertFalse(permutation_o_n_log_n("asd", "aad"))
-        self.assertFalse(permutation_o_n_log_n("asd", "aaa"))
-        self.assertFalse(permutation_o_n_log_n("asd", "aaaa"))
+    def test_o_n_square(self):
+        self.assertTrue(permutation_o_n_square("asd", "asd"))
+        self.assertTrue(permutation_o_n_square("asd", "ads"))
+        self.assertTrue(permutation_o_n_square("asd", "das"))
+        self.assertTrue(permutation_o_n_square("asd", "sad"))
+        self.assertTrue(permutation_o_n_square("asd", "sda"))
+        self.assertTrue(permutation_o_n_square("asd", "dsa"))
+        self.assertFalse(permutation_o_n_square("asd", "qwe"))
+        self.assertFalse(permutation_o_n_square("asd", "aad"))
+        self.assertFalse(permutation_o_n_square("asd", "aaa"))
+        self.assertFalse(permutation_o_n_square("asd", "aaaa"))
 
     def test_o_n(self):
         self.assertTrue(permutation_o_n("asd", "asd"))

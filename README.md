@@ -6,4 +6,4 @@ do livro Cracking the Coding Interview
 
 # Linguagens
 * Fausto - Python
-* Adenir - C
+* Adenir - C (https://github.com/adenirjr/crackingthecodinginterview.git)

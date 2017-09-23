@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970d7bb7-fd78-4ca5-aa5a-e70110dd3115" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking-code-interview/1_9_string_rotation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py" afterPath="$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,31 +19,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1_7_rotate_matrix.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_7_rotate_matrix.py">
+      <file leaf-file-name="1_9_string_rotation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_9_string_rotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_7_rotateMatrix.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_7_rotateMatrix.py">
+      <file leaf-file-name="case.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3.5/unittest/case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="677" column="0" lean-forward="false" selection-start-line="677" selection-start-column="0" selection-end-line="677" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_8_zero_matrix.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1_6_string_compression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_6_string_compression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_8_zero_matrix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,6 +111,7 @@
         <option value="$PROJECT_DIR$/cracking-code-interview/1_7_rotate_matrix.py" />
         <option value="$PROJECT_DIR$/cracking-code-interview/matrix_helper.py" />
         <option value="$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py" />
+        <option value="$PROJECT_DIR$/cracking-code-interview/1_9_string_rotation.py" />
       </list>
     </option>
   </component>
@@ -194,7 +205,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in 1_9_string_rotation.py">
+    <configuration name="Unittests in 1_9_string_rotation.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cracking-code-interview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cracking-code-interview/1_9_string_rotation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -412,6 +437,11 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 1_9_string_rotation.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -565,28 +595,17 @@
       <option name="project" value="LOCAL" />
       <updated>1506196522003</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="exercicio 1.8">
+      <created>1506196659161</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1506196659161</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 40m 06s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 42m 53s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 43m 14s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 43m 36s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 44m 05s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 45m 10s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 45m 28s.xml">
       <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
     </history-entry>
@@ -598,6 +617,24 @@
     </history-entry>
     <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 54m 23s.xml">
       <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_1_9_string_rotation_py - 2017.09.23 at 17h 16m 12s.xml">
+      <configuration name="Unittests in 1_9_string_rotation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_1_9_string_rotation_py - 2017.09.23 at 17h 17m 07s.xml">
+      <configuration name="Unittests in 1_9_string_rotation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_1_9_string_rotation_py - 2017.09.23 at 17h 17m 57s.xml">
+      <configuration name="Unittests in 1_9_string_rotation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_1_9_string_rotation_py - 2017.09.23 at 17h 18m 19s.xml">
+      <configuration name="Unittests in 1_9_string_rotation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_1_9_string_rotation_py - 2017.09.23 at 17h 18m 52s.xml">
+      <configuration name="Unittests in 1_9_string_rotation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_1_9_string_rotation_py - 2017.09.23 at 17h 19m 34s.xml">
+      <configuration name="Unittests in 1_9_string_rotation.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -776,13 +813,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py" />
-    <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_6_string_compression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_2_permutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
@@ -818,22 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_7_rotate_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_7_rotateMatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cracking-code-interview/matrix_helper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -850,10 +864,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_7_rotate_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_7_rotateMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_6_string_compression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="677" column="0" lean-forward="false" selection-start-line="677" selection-start-column="0" selection-end-line="677" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_9_string_rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
           <folding />
         </state>
       </provider>

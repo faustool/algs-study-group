@@ -42,7 +42,6 @@ def matrix_to_text(matrix):
 class TestFunctions(unittest.TestCase):
     def testRotate(self):
 
-
         source = [
             [' ', ' ', ' ', ' '],
             [' ', '0', ' ', ' '],

@@ -13,17 +13,21 @@ def build_new_matrix(m, n):
 
 
 def zero_matrix(matrix, m, n):
-    rows = set([])
-    columns = set([])
+    rows = set()
+    columns = set()
     for i in range(m):
         for j in range(n):
-            if matrix[i][j] == 0:
+            if matrix[i][j] == "0":
                 rows.add(i)
                 columns.add(j)
 
     for i in rows:
-        for j in columns:
-            matrix[i][j] = 0
+        for j in range(n):
+            matrix[i][j] = "0"
+
+    for i in columns:
+        for j in range(m):
+            matrix[j][i] = "0"
 
 
 def matrix_to_text(matrix):

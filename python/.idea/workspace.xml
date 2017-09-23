@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970d7bb7-fd78-4ca5-aa5a-e70110dd3115" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py" afterPath="$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +42,8 @@
       <file leaf-file-name="1_8_zero_matrix.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="161">
+              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -682,39 +681,46 @@
       <option name="project" value="LOCAL" />
       <updated>1503176760686</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="exercicio 1.8">
+      <created>1506195546270</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1506195546270</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 30m 20s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 31m 29s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 32m 34s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 33m 10s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 36m 35s.xml">
-      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 37m 37s.xml">
       <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 38m 28s.xml">
       <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_1_7_rotate_matrix_py - 2017.08.19 at 18h 52m 05s.xml">
-      <configuration name="Unittests in 1_7_rotate_matrix.py" configurationId="tests" />
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 40m 06s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_1_7_rotate_matrix_py - 2017.08.19 at 18h 52m 37s.xml">
-      <configuration name="Unittests in 1_7_rotate_matrix.py" configurationId="tests" />
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 42m 53s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_1_7_rotate_matrix_py - 2017.08.19 at 18h 53m 26s.xml">
-      <configuration name="Unittests in 1_7_rotate_matrix.py" configurationId="tests" />
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 43m 14s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 43m 36s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 44m 05s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 45m 10s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 45m 28s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1_8_zero_matrix_TestFunctions - 2017.09.23 at 16h 45m 43s.xml">
+      <configuration name="Unittests for 1_8_zero_matrix.TestFunctions" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -734,7 +740,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5648148" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5648148" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -770,7 +776,8 @@
     <MESSAGE value="finalizado o exercício 1.4 com a ilustre ajuda do grande Henrique Paques" />
     <MESSAGE value="finalizado exercicio 1.6 - compression" />
     <MESSAGE value="renomeando funcoes e adicionando comentarios" />
-    <option name="LAST_COMMIT_MESSAGE" value="renomeando funcoes e adicionando comentarios" />
+    <MESSAGE value="exercicio 1.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio 1.8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -952,8 +959,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cracking-code-interview/1_8_zero_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="161">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="30" />
           <folding />
         </state>
       </provider>

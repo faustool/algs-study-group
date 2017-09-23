@@ -1,7 +1,6 @@
 # Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0
 import unittest
 
-
 def build_new_matrix(m, n):
     matrix = []
     for i in range(m):
@@ -42,6 +41,8 @@ def matrix_to_text(matrix):
 
 class TestFunctions(unittest.TestCase):
     def testRotate(self):
+
+
         source = [
             [' ', ' ', ' ', ' '],
             [' ', '0', ' ', ' '],
